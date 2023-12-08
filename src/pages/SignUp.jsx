@@ -57,7 +57,7 @@ console.log(formData);
       </form>
       <div className="flex gap-2 mt-5">
         <p>Have an account?</p>
-        <Link TO={"/Sign-in"}>
+        <Link to={"/Sign-in"}>
             <span className="text-blue-700">Sign in</span>
         </Link>
       </div>
